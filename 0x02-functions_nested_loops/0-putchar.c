@@ -4,10 +4,11 @@
  * Description: Print _putchar in a new line
  * Return: this program returns zero
  */
-int main(void)
+int void(main)
 {
 _putchar("_");
 _putchar("p");
+_putchar("u");
 _putchar("u");
 _putchar("t");
 _putchar("c");
