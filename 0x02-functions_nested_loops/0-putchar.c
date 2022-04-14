@@ -1,9 +1,12 @@
 #include "main.h"
+
+
 /**
- * Main- main block
- * Description: Print _putchar in a new line
+ * Main - Entry point
+ *
  * Return: this program returns zero
  */
+
 int void(main)
 {
 _putchar('_');
