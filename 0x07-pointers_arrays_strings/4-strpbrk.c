@@ -28,6 +28,8 @@ char *_strpbrk(char *s, char *accept)
 		}
 
 		a++;
+
 	}
+
 	return ('\0');
 }
